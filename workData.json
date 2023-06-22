@@ -1,0 +1,27 @@
+[
+    {
+      "_id": "64512d66854897c934327d7f",
+      "picture": "https://media-cdn.tripadvisor.com/media/photo-s/0e/d9/1f/db/double-double-at-in-n.jpg",
+      "name": "Place order",
+   "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis eaque sint hic nesciunt. Incidunt, eum."
+    
+    },
+    {
+      "_id": "64512d6605e604ab2d0530f0",
+      "picture": "https://images.pexels.com/photos/4252146/pexels-photo-4252146.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Chef cooks, clean & leavs",
+      "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis eaque sint hic nesciunt. Incidunt, eum."
+    },
+    {
+      "_id": "64512d6694e8841c22390f44",
+      "picture": "https://images.pexels.com/photos/4827131/pexels-photo-4827131.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Chef arrives at speciffed time",
+        "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis eaque sint hic nesciunt. Incidunt, eum."
+    },
+    {
+      "_id": "64512d66ce8e82d913eeced1",
+      "picture": "https://images.pexels.com/photos/7936958/pexels-photo-7936958.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "That's it! Bon appeit",
+      "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis eaque sint hic nesciunt. Incidunt, eum."
+    }
+  ]

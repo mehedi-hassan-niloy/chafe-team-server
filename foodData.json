@@ -1,0 +1,50 @@
+[
+    {
+      "_id": "64512d66854897c934327d7f",
+      "picture": "https://media-cdn.tripadvisor.com/media/photo-s/0e/d9/1f/db/double-double-at-in-n.jpg",
+      "name": "DOUBLE-DOUBLE IN-N-OUT",
+      "price": "14$"
+    },
+    {
+      "_id": "64512d6605e604ab2d0530f0",
+      "picture": "https://www.mashed.com/img/gallery/you-could-win-free-mcdonalds-fries-for-life-heres-how/intro-1625772161.webp",
+      "name": "FRIES MCDONALD'S",
+      "price": "14$"
+    },
+    {
+      "_id": "64512d6694e8841c22390f44",
+      "picture": "https://www.gourmandize.com/media/new-popeyes-louisiana-kitchen-new-orleans-cajun-fried-chicken-close-up1_crop.jpg/rh/fried-chicken-strips-popeye-s-copycat-recipe.jpg",
+      "name": "CHICKEN POPEYES",
+      "price": "14$"
+    },
+    {
+      "_id": "64512d66ce8e82d913eeced1",
+      "picture": "https://wildflourskitchen.com/wp-content/uploads/2017/02/Chick-fil-A-Homemade.jpg",
+      "name": "CHICKEN SANDWICH CHICK-FIL-A",
+      "price": "14$"
+    },
+    {
+      "_id": "64512d66cacfdc8701767d74",
+      "picture": "https://cds.arbys.ca/assets/product_item/CurlyFries-Snk_18_tile_Desktop_1024x557.jpg",
+      "name": " CURLY FRIES ARBY'S",
+      "price": "14$"
+    },
+    {
+      "_id": "64512d66e5d8d067234126d4",
+      "picture": "https://people.com/thmb/bOvDvKnBoL2olxwqScn2OyHucgc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2):format(webp)/dairy-queen-fall-blizzards-083022-5-08a1edc563eb48a2a9abad8cecac0a21.png",
+      "name": "BLIZZARD DAIRY QUEEN",
+      "price": "14$"
+    },
+    {
+      "_id": "64512d66293a05bfffad1fcd",
+      "picture": "https://media.cnn.com/api/v1/images/stellar/prod/221102111844-embargoed-wendys-peppermint-frosty.jpg?c=16x9&q=h_720,w_1280,c_fill/f_webp",
+      "name": "FROSTY WENDY'S",
+      "price": "14$"
+    },
+    {
+      "_id": "64512d665203e4edd4f9da7a",
+      "picture": "https://images.chickadvisor.com/item/42594/375/i/mcdonalds-mcflurry.jpg?ic=2",
+      "name": "MCFLURRY MCDONALD'S",
+      "price": "14$"
+    }
+  ]
